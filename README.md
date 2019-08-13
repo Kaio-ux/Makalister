@@ -1,4 +1,4 @@
 # Makalister
-Reflexo vira matéria - Aula 02
-Kaio Vinicius Carvalho Godinho
-RA - 1900655
+Reflexo vira matéria - Aula 02 <br/>
+Kaio Vinicius Carvalho Godinho <br/>
+RA - 1900655 <br/>
